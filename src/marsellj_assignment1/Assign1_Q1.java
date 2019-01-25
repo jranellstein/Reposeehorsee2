@@ -5,7 +5,7 @@ package marsellj_assignment1;
  * Program: Computer Programmer
 
  * This program takes a date that is entered and calculates the day 
- * of the week the date entered lies on, and outputs the full date.
+ * of the week the date entered lies on, and outputs the full date.lol
  */
 import java.util.Scanner;
 public class Assign1_Q1 {
